@@ -1,0 +1,8 @@
+.jumbotron{
+    background-image: url(../images/sheldontrains.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #bce8f1;
+    text-shadow: 3px 3px #000000;
+    height: 380px;
+}
